@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../scss/reg_buy.scss",
+        "../../scss/_variables.scss",
+        "../../scss/_globals.scss"
+    ],
+    "names": [],
+    "file": "reg_buy.css"
+}
